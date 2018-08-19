@@ -1,6 +1,6 @@
 # 创建CentOS本地镜像源
 
-课程笔记及源码: https://github.com/yonh/lessons/centos_mirror
+课程笔记及源码: https://github.com/yonh/lessons/tree/master/centos_mirror
 
 这里搭建 CentOS 7 的镜像源，其他版本类似
 
